@@ -1,4 +1,4 @@
-package basic.sorting;
+package basic.sortingAndSearching;
 
 import java.util.Arrays;
 

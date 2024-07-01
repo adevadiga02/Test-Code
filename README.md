@@ -1,18 +1,38 @@
-## Getting Started
+## Start with this leetcode problem
+https://www.techinterviewhandbook.org/algorithms/array/
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+### Sequence of learning
+- Basics
+Array
+String
+Hash table
+Recursion
+Sorting and searching
 
-## Folder Structure
+- Data structures
+Matrix
+Linked list
+Queue
+Stack
+Interval
 
-The workspace contains two folders by default, where:
+- Advanced data structures
+Tree
+Graph
+Heap
+Trie
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+- Additional
+Dynamic programming
+Binary
+Math
+Geometry
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Neetcode Check the questions left
+https://neetcode.io/roadmap
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Sahil Interview Master top 100
+https://www.interviewmaster.io/p/interview-master-100
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Striver 79
+https://takeuforward.org/interview-sheets/strivers-79-last-moment-dsa-sheet-ace-interviews
